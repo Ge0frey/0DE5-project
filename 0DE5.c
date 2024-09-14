@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int make_it_higher(int n) {
+int make_it_higher(int n)
+{
     int result = n + 100 + 20 + 7;
     return result;
 }
